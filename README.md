@@ -1,4 +1,4 @@
-# ipkg-vim
+# agda-lib-vim
 
 This plugin provides syntax highlighting for `.agda-lib` files.
 
