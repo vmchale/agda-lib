@@ -1,1 +1,3 @@
-au BufNewFile,BufRead *.agda-lib set filetype=ipk%g
+augroup agda
+    au BufNewFile,BufRead *.agda-lib set filetype=agda-lib
+augroup END
